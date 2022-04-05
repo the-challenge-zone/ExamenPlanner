@@ -35,11 +35,12 @@
         <!-- Form Name -->
         <legend style="text-align:center;">Examen planner formulier</legend>
 
+        <button id="submit" class="btn btn-dark btn-lg btn-block">bruv kek</button>
         <!-- Text input Examen naam-->
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Examen naam</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. engels" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -48,7 +49,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Klas</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. A.I.123" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -57,7 +58,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Crebo</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="crebo xD" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -66,7 +67,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Kwalificatie</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="kwalificatie xD" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -75,7 +76,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Cohort</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="cohort :3" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -84,7 +85,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Benaming exameneenheid</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="ja" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -93,7 +94,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Code exameneenheid</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="ja 2" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -102,7 +103,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Afname vorm</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. digitaal" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -111,7 +112,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Duur (min)</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. 420min" class="form-control input-md" style = "margin-left: 105%">
              
         </div>
         </div>
@@ -120,7 +121,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Dag</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. zaterdag" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -129,7 +130,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Datum -tijd v/t of v</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. 20-04 18:00 tot 18:30" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -138,7 +139,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Beoordelaar</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. D.Bollen" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -147,7 +148,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Leverancier </label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="leverancier" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -156,7 +157,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Toezicht- lokaal</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. Derix " class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -165,7 +166,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Aantal</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. 2" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -174,7 +175,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Studentnummers</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. 405349" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -183,7 +184,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Cluster</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="cluster lol" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -192,7 +193,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Versie</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. 2.2" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -201,7 +202,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Week</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%">
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. 16" class="form-control input-md" style = "margin-left: 105%">
             
         </div>
         </div>
@@ -210,7 +211,7 @@
         <div class="form-group">
         <label class="col-md-4 control-label" for="textinput" style = "margin-left: 45%">Locatie opmerking</label>  
         <div class="col-md-4">
-        <input id="textinput" name="textinput" type="text" placeholder="placeholder" class="form-control input-md" style = "margin-left: 105%"   >
+        <input id="textinput" name="textinput" type="text" placeholder="bijv. gat in de grond" class="form-control input-md" style = "margin-left: 105%"   >
             
         </div>
         </div>
