@@ -1,2 +1,0 @@
-# ExamenPlanner
-Examen planner 
